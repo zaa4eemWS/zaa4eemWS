@@ -1,5 +1,5 @@
 ## 101 Team
-<img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" align="right">
+<img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" width="100px" align="right">
 - About our team
 We are a novice web development team with little knowledge but a lot of enthusiasm!
 
