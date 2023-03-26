@@ -1,4 +1,4 @@
-# One Hundred First
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&duration=2500&pause=1000&color=24292F&vCenter=true&width=435&lines=One+hundred+first;101;one+zero+one;110001+110000+110001)](https://git.io/typing-svg)
 <img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" width="250px" align="right">
 
 ### ❔ About our team
