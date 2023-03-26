@@ -1,5 +1,5 @@
 # One Hundred First
-<img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" width="150px" align="right">
+<img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" width="250px" align="right">
 
 ### ❔ About our team
 The [101](https://github.com/zaa4eemWS) Team consists of novice developers working on various web projects using both JavaScript and Python. Despite their limited experience, we are determined to learn and produce quality work. Our team are determined to improve their skills and are open to feedback and suggestions from our employers. While working on various projects, we are constantly learning new techniques and exploring best practices in web development.
