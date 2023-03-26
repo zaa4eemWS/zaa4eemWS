@@ -25,4 +25,4 @@ The [101](https://github.com/zaa4eemWS) Team consists of novice developers worki
 
 
 ### ❗ Why we?
-Our site is specifically tailored for programmers and programming topics. We listen to your requests and analyze what you need for specific types of people. We programmers do for programmers. We want to make the best product for IT, and break the whole market of IT companies products. And become the best of the best.
+Our site is specifically tailored for programmers and programming topics. We listen to your requests and analyze what you need for specific types of people.
