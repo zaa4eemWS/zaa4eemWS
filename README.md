@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&duration=2500&pause=1000&color=24292F&vCenter=true&width=435&lines=One+hundred+first;101;one+zero+one;110001+110000+110001)](https://git.io/typing-svg)
-<img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" width="250px" align="right">
+<img src="https://cdn.discordapp.com/attachments/1089621536576655493/1089621571737485413/101_logo.png" width="150px" align="right">
 
 ### ❔ About our team
 The [101](https://github.com/zaa4eemWS) Team consists of novice developers working on various web projects using both JavaScript and Python. Despite their limited experience, we are determined to learn and produce quality work. Our team are determined to improve their skills and are open to feedback and suggestions from our employers. While working on various projects, we are constantly learning new techniques and exploring best practices in web development.
